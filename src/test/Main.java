@@ -32,6 +32,8 @@ public class Main {
 			} else {
 				System.out.println("id 또는 password가 올바르지 않습니다.");
 			}
+			
+			System.out.println("새로운 내용을 추가");
 	}
 	
 
